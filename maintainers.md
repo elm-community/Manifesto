@@ -32,6 +32,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com |
 | [material-icons](http://github.com/elm-community/material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
+| [meshes](https://github.com/elm-community/meshes) | 3D meshes (useful for WebGL in Elm) | avh4 | gruen0aermel@gmail.com |
 | [random-extra](http://github.com/elm-community/random-extra) | Extra functions for Random | mgold | maxgoldstein1@gmail.com |
 | [ratio](http://github.com/elm-community/ratio) | Rational numbers | newlandsvalley | john.watson@gmx.co.uk |
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
