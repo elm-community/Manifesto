@@ -29,6 +29,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com |
 | [material-icons](http://github.com/elm-community/material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | skyqrose | btgtcmxh@sky.skyqrose.com |
+| [ordered-containers](http://github.com/elm-community/ordered-containers) | OrderedDict and OrderedSet that remember the order of insertion | y0hy0h | y0hy0h@gmx.net |
 | [random-extra](http://github.com/elm-community/random-extra) | Extra functions for Random | mgold | maxgoldstein1@gmail.com |
 | [ratio](http://github.com/elm-community/ratio) | Rational numbers | newlandsvalley | john.watson@gmx.co.uk |
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | prikhi | pavan.rikhi@gmail.com |
